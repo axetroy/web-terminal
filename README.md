@@ -5,6 +5,8 @@
 ### Run in local
 
 ```bash
+$ git clone https://github.com/axetroy/web-terminal.git
+$ cd web-terminal
 $ yarn
 $ node index.js
 # visit http://localhost:3000
